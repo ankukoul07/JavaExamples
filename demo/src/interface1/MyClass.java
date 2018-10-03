@@ -9,7 +9,6 @@ public class MyClass {
 	Bank ijk=new Bank_ICICI();
 	
 	System.out.println(abc.getIntrestRate());
-	System.out.println(def.getIntrestRate());
 	System.out.println(ijk.getIntrestRate());
 	}
 
